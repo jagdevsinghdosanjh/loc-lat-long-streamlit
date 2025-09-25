@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.DS_Store
+
+# Streamlit Authenticator
+auth_token/
+
+# Logs and diagnostics
+logs/
+*.log
+
+# Usage tracking
+usage/usage_log.json
+
+# Exported files
+exports/
+*.csv
+*.xlsx
+
+# Environment files
+.env
+
+# Jupyter and notebooks (if used)
+.ipynb_checkpoints/
+*.ipynb
+
+# VSCode and editor configs
+.vscode/
+*.code-workspace
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
